@@ -5,13 +5,7 @@ I’m interested in learn a foreign language, like to learn new things especiall
 <br>♥  I’m currently learning programming android, web design and cloud architect
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=boycillz)](https://github.com/boycillz)<br>
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boycillz&layout=compact)](https://github.com/boycillz)--->
-
-<br><br>
 
 
-<!---
-boycillz/boycillz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
