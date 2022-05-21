@@ -5,7 +5,7 @@ I’m interested in learn a foreign language, like to learn new things especiall
 <br>♥  I’m currently learning programming android, web design and cloud architect
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/boycillz/github-readme-stats)
 
 
 
